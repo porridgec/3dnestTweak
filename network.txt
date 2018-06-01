@@ -1,0 +1,25 @@
+http://user.3dnest.cn/nest/USER_GetOssToken?userName=lzh@3dnest.cn
+
+{
+	"msg": "success",
+	"code": 0,
+	"data": {
+		"AccessKeySecret": "5seyn4EKyjoenz2FZUZWV6Eb23sPgqK8UBpiwvKHDcBx",
+		"SecurityToken":"CAIShgJ1q6Ft5B2yfSjIpvqHOM3gqIdr4PvfcVD7ikMPbc5fmpTclTz2IH9IfXVsBe4Zs/0+lGpV6v4TlqVoRoReREvCKM1565kPbpYdt3KF6aKP9rUhpMCPOwr6UmzWvqL7Z+H+U6muGJOEYEzFkSle2KbzcS7YMXWuLZyOj+wMDL1VJH7aCwBLH9BLPABvhdYHPH/KT5aXPwXtn3DbATgD2GM+qxsmtv/mmJLAu0aF3AamlbVOnemrfMj4NfsLFYxkTtK40NZxcqf8yyNK43BIjvwp0PUYpWuZ4YzEUgkLvkneYvCn+9luPRJ/YbMhB6lHof7zmPt1oOXPkJ7tzBJALWrpn6xq/mHLGoABPgtLQ1XNN52UU3fxNjcEd4LPL9Ib2+AhMPYFzyRGA3vt4/WOcq3a+kE/Vk4IXCxcvHf+oFir6Bb6N/ZdtSeL8/kKi2Gsi1vb4rm5n98X1+vm3r0ndMGHAFeqGo2CiFbbUshrHEIhjtC+r3XM22ivVq78CvrFsxpVzkiAAN4knfQ=",
+		"Expiration": "2018-01-18T04:44:36Z",
+		"AccessKeyId": "STS.G92swTEXJW94svJnCZaAsuQww"
+	}
+}
+
+{
+	"msg": "success",
+	"code": 0,
+	"data": {
+		"AccessKeySecret": "97icmjdG91T2jFstAeGhk5cVTy5P47bMoALKsSJ9Kpjv",
+		"SecurityToken":"CAIShgJ1q6Ft5B2yfSjIpq7RDonetZFvzoyIUnyHinZnVrkYn4PjhDz2IH9IfXVsBe4Zs/0+lGpV6v4TlqVoRoReREvCKM1565kPI41QyXKF6aKP9rUhpMCPOwr6UmzWvqL7Z+H+U6muGJOEYEzFkSle2KbzcS7YMXWuLZyOj+wMDL1VJH7aCwBLH9BLPABvhdYHPH/KT5aXPwXtn3DbATgD2GM+qxsmtv/mmJLAu0aF3AamlbVOnemrfMj4NfsLFYxkTtK40NZxcqf8yyNK43BIjvwp0PUYpWuZ4YzEUgkLvkneYvCn+9luPRJ/YbMhB6lHof7zmPt1oOXPkJ7tzBJALWrpn6xq/mHLGoABhqk0+V8IZ3wzdyBbBMOvBLKq1VtCGmiRA65R/EZltptILhU7JbOsdqWeTc+f2NNZ8QX1velugyEvT+GtahaoKN6BNFA6UaXv+e8xBDL6MWusmPzD/vLn3Y4WFX6SCYuAoN1CgojVsCZFOsYAJ2NqJL3o4D/eFpntgmbQzZ8Vqcc=",
+		"Expiration": "2018-01-18T07:58:10Z",
+		"AccessKeyId": "STS.GmdE3jXNNyNcPZ6nv2Z64pFHf"
+	}
+}
+
+//id:LTAIy6jp2hQrfOR0 secret:ANU5Roz6KzyxZQoAj8dBpt5OyVQiB7

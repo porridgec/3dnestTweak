@@ -1,0 +1,9 @@
+Package: info.hahnchan.3dnesttweak
+Name: 3DNestTweak
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Hahn.Chan
+Author: Hahn.Chan
+Section: Tweaks
